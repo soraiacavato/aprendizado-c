@@ -22,9 +22,9 @@ int main (){
 
     //respostas
 
-    printf ("Seu nome e: %s.\n", nome);
+    printf ("\nSeu nome e: %s.\n", nome);
     printf ("Sua idade e: %d.\n", idade);
-    printf ("Sua altura e: %f.\n", altura);
+    printf ("Sua altura e: %.2f.\n", altura);
 
 
     system("pause");
