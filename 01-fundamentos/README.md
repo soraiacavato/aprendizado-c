@@ -11,6 +11,7 @@
 <p>- `condicionais.c` → Pede a nota do aluno e diz se foi aprovado ou reprovado.</p>
 <p>- `loops.c` → Conta de 1 até 10.</p>
 <p>- `verificador_idade.c` → Verificação de idade para classificação etária. </p> 
+<p>- `vericador_beneficios_sociais.c` → Verifica a qualificação para um programa de benefícios sociais.</p>
 <br>
 <br>
 <p>✍️ *Este repositório é parte do meu projeto pessoal de aprender programação em C do zero e construir um portfólio no GitHub.*</p>
