@@ -9,8 +9,8 @@
 <p>- `calculadora_simples.c` → Realiza operações matemáticas básicas e as imprime na tela.</p>
 <p>- `media_notas.c` → Realiza o cálculo da média do aluno.</p>
 <p>- `condicionais.c` → Pede a nota do aluno e diz se foi aprovado ou reprovado.</p>
-<p>- `raiz_quadrada.c` → Calcula a raiz quadrada de um número.</p>
 <p>- `loops.c` → Conta de 1 até 10.</p>
+<p>- `verificador_idade.c` → Verificação de idade para classificação etária. </p> 
 <br>
 <br>
 <p>✍️ *Este repositório é parte do meu projeto pessoal de aprender programação em C do zero e construir um portfólio no GitHub.*</p>
