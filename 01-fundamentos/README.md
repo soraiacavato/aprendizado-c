@@ -12,6 +12,16 @@
 <p>- `loops.c` → Conta de 1 até 10.</p>
 <p>- `verificador_idade.c` → Verificação de idade para classificação etária. </p> 
 <p>- `vericador_beneficios_sociais.c` → Verifica a qualificação para um programa de benefícios sociais.</p>
+<p>- `caixa_eletronico.c` → Simula um caixa eletronico de banco. </p>
+<br>
+<h2>## 🛠️ Conceitos Praticados</h2>
+<br>
+<p>- Uso de `printf` e `scanf` para entrada/saída de dados. </p>  
+<p>- Declaração e manipulação de variáveis.  </p>
+<p>- Estruturas condicionais: `if`, `else`, `else if`. </p> 
+<p>- Estruturas de repetição: `for`, `while`.  </p>
+<p>- Operadores aritméticos e lógicos.  </p>
+<p>- Estrutura básica de um programa em C (`#include`, `int main()`, `{}`). </p>
 <br>
 <br>
 <p>✍️ *Este repositório é parte do meu projeto pessoal de aprender programação em C do zero e construir um portfólio no GitHub.*</p>
