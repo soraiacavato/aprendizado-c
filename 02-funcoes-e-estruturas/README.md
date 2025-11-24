@@ -28,6 +28,7 @@ Programas focados em modularização, reutilização de código e clareza.
 Manipulação de vetores e matrizes.
 
 📂 *Arquivos:*
+- `notas-array.c` – exibe a nota de alunos utilizando matrizes  
 - `maior-menor-array.c` – encontra o maior e menor valor do vetor  
 - `media-array.c` – calcula média de elementos  
 - `matriz-soma.c` – soma de duas matrizes 3x3  
